@@ -1,0 +1,12 @@
+== Ej1 == MiPrimerAnalisis 1g 8 4.3.0
+== Ej2 == 20 [1, 2, 3, 4, 5] 210 20 1
+== Ej3 == 34 [51, 54, 57, 60, 63, 66, 69, 72, 75, 78]
+== Ej4 == [('Laptop', 3600), ('Mouse', 55), ('Teclado', 75)] [('Laptop', 3), ('Mouse', 2), ('Teclado', 1)] ('Laptop', 3600)
+== Ej5 == [('David Johnson', 35), ('Michael Wilson', 40), ('Sarah Brown', 32), ('James Martinez', 38), ('William Anderson', 33), ('Karen Hernandez', 31), ('Christopher Taylor', 37), ('Matthew Davis', 36), ('Daniel Miller', 34), ('Linda Martin', 39)] Total: 10
+== Ej6 == [('John Doe', '30', 'Male'), ('Jane Smith', '25', 'Female'), ('David Johnson', '35', 'Male')]
+== Ej7 ==
+name,age,gender,salary
+John Doe,30,Male,50000
+Jane Smith,25,Female,45000
+David Johnson,35,Male,60000
+Emily Davis,28,Female,52000

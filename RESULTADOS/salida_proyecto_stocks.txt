@@ -1,0 +1,55 @@
+== Paso 1 == ['id,name,category,quantity,price', '1,iPhone,Electronics,10,899.99', '2,Macbook,Electronics,5,1299.99', '3,iPad,Electronics,15,499.99', '4,Samsung TV,Electronics,8,799.99']
+Particiones: 2
+== Paso 2 == Líneas válidas: 30
+== Paso 3 ==
+Max Accessories: $29.99
+Max Clothing: $199.99
+Max Electronics: $1299.99
+Max Food: $5.99
+Max Furniture: $249.99
+Max Sports: $49.99
+Min Accessories: $24.99
+Min Clothing: $14.99
+Min Electronics: $129.99
+Min Food: $0.25
+Min Furniture: $79.99
+Min Sports: $19.99
+Prom Accessories: $27.49
+Prom Clothing: $99.28
+Prom Electronics: $586.66
+Prom Food: $2.30
+Prom Furniture: $141.99
+Prom Sports: $34.99
+== Paso 4 == Top 10 por valor de inventario:
+iPhone: $8,999.90
+iPad: $7,499.85
+LG TV: $6,999.90
+Macbook: $6,499.95
+Samsung TV: $6,399.92
+Camera: $5,999.90
+Beats Headphones: $3,999.80
+Sneakers: $3,199.60
+Leather Jacket: $2,999.85
+Nike Shoes: $2,999.70
+== Paso 5 ==
+Más volátiles:
+Food: 2296.00%
+Clothing: 1234.16%
+Electronics: 900.07%
+Furniture: 212.53%
+Sports: 150.08%
+Más estables:
+Accessories: 20.01%
+Sports: 150.08%
+Furniture: 212.53%
+Electronics: 900.07%
+Clothing: 1234.16%
+============================================================
+RESUMEN EJECUTIVO - ANÁLISIS DE STOCKS
+============================================================
+Total de registros procesados: 30
+Categorías únicas: 6
+Categoría con mayor precio promedio: Electronics ($586.66)
+Producto con mayor valor de inventario: iPhone ($8,999.90)
+Categoría más volátil: Food (2296.00%)
+Análisis completado. Sesión cerrada.
